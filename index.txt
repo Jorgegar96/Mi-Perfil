@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title> Mi Perfil</title>
+		<meta charset="utf-8">
+		<style>
+		h1{
+			text-align:center;
+			color:;
+			border-bottom:dotted;
+			width:70%;
+			margin:auto;
+		}
+	
+	
+		table{
+			border:3px solid #F00;
+			padding:20px 50px;
+			margin-top:50px;
+		}
+	
+		body{
+			background-color:#9ABBC1
+		}
+</style>
+	</head>
+	
+	<body>
+		<h1>Mi Perfil</h1>
+		<table>
+			<tr>
+				<td>Nombre: Jorge Luis García Ordóñez<td>
+			<tr>
+			<tr>
+				<td>Edad: 22 años<td>
+			<tr>
+			<tr>
+				<td>Carrera: Ingenieria en Sistemas Computacionales<td>
+			<tr>
+		</table>
+	</body>
+
+</html>
